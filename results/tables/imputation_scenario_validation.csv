@@ -1,0 +1,5 @@
+"Scenario","Number_of_time_points","Number_of_variables","Number_of_missing_values","File_found"
+"uniform_k7",7,17,0,TRUE
+"uniform_k8",7,17,0,TRUE
+"uniform_k9",7,17,0,TRUE
+"affected_variables_excluded",7,13,0,TRUE

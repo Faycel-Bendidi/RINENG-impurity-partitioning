@@ -1,0 +1,13 @@
+"Scenario","Group","Number_of_variables"
+"uniform_k7",1,5
+"uniform_k7",2,8
+"uniform_k7",3,4
+"uniform_k8",1,5
+"uniform_k8",2,8
+"uniform_k8",3,4
+"uniform_k9",1,4
+"uniform_k9",2,8
+"uniform_k9",3,5
+"affected_variables_excluded",1,4
+"affected_variables_excluded",2,5
+"affected_variables_excluded",3,4

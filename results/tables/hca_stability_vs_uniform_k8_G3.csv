@@ -1,0 +1,5 @@
+"Scenario","Reference_scenario","Number_of_common_variables","Adjusted_Rand_Index","Membership_agreement_percent","Number_of_changed_variables","Changed_variables"
+"uniform_k7","uniform_k8",17,1,100,0,"None"
+"uniform_k8","uniform_k8",17,1,100,0,"None"
+"uniform_k9","uniform_k8",17,0.865612648221344,94.1176470588235,1,"ZMo"
+"affected_variables_excluded","uniform_k8",13,1,100,0,"None"

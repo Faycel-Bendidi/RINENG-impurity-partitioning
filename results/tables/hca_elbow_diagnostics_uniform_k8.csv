@@ -1,0 +1,11 @@
+"Scenario","Number_of_groups_G","Total_within_cluster_SS"
+"uniform_k8",1,80.5263552880061
+"uniform_k8",2,33.9636468177226
+"uniform_k8",3,20.8456776446437
+"uniform_k8",4,14.3181521864358
+"uniform_k8",5,9.52644467897802
+"uniform_k8",6,7.4025813955643
+"uniform_k8",7,5.60587962840296
+"uniform_k8",8,4.12093584378093
+"uniform_k8",9,2.98350057344387
+"uniform_k8",10,2.32031415144717

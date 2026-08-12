@@ -1,0 +1,5 @@
+"Scenario","Number_of_variables","Number_of_groups_G","Mean_silhouette_width","Minimum_silhouette_width","Number_of_negative_silhouettes","Cophenetic_correlation"
+"uniform_k7",17,3,0.447201117816369,0.0456322476135681,0,0.863731741987128
+"uniform_k8",17,3,0.446489161896975,0.0951084081539307,0,0.867095064073773
+"uniform_k9",17,3,0.425047092547997,-0.00162911249843438,1,0.913958015626071
+"affected_variables_excluded",13,3,0.539181096118168,0.185117745638935,0,0.931402377086526

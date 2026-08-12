@@ -1,0 +1,7 @@
+"Scenario","Principal_component","eigenvalue","percentage of variance","cumulative percentage of variance"
+"affected_variables_excluded","comp 1",7.30116444127527,65.5232706268293,65.5232706268293
+"affected_variables_excluded","comp 2",2.51282900715905,22.5510295514274,88.0743001782567
+"affected_variables_excluded","comp 3",1.07758532977929,9.67063757494232,97.744937753199
+"affected_variables_excluded","comp 4",0.156698372422567,1.4062674448179,99.1512051980169
+"affected_variables_excluded","comp 5",0.0518969797656937,0.465742126102379,99.6169473241193
+"affected_variables_excluded","comp 6",0.0426830124552813,0.383052675880729,100
