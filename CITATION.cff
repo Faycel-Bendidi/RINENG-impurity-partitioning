@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use these data or scripts, please cite the associated article."
+title: "Impurity partitioning during forced-cooling desupersaturation of industrial wet-process phosphoric acid: a chemometric and mineralogical study"
+type: software
+authors:
+  - family-names: Bendidi
+    given-names: Faycel
+  - family-names: Loukili
+    given-names: Hayat
+  - family-names: Anouzla
+    given-names: Abdelkader
+  - family-names: Moussadik
+    given-names: Ali
+  - family-names: El-bouzidi
+    given-names: Ahmed
+  - family-names: El fakir
+    given-names: El habib
+  - family-names: Zaroual
+    given-names: Khalid
+  - family-names: Arrour
+    given-names: Samir
+  - family-names: Mahloub
+    given-names: Taoufiq
+  - family-names: Beqqour
+    given-names: Dounia
+  - family-names: Ouammou
+    given-names: Mohamed
+  - family-names: Alami Younssi
+    given-names: Saad
+  - family-names: Abrouki
+    given-names: Younes
+  - family-names: Zari
+    given-names: Mohammed
+version: 0.1.0
+keywords:
+  - wet-process phosphoric acid
+  - impurity partitioning
+  - forced cooling
+  - k-nearest neighbor imputation
+  - principal component analysis
+  - hierarchical cluster analysis

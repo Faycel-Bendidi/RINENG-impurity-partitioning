@@ -1,0 +1,5 @@
+Scenario,Weighting,k_NN,Number_of_time_points,Number_of_variables,Output_file
+uniform_k7,uniform,7.0,7,17,partition_coefficients_uniform_k7.csv
+uniform_k8,uniform,8.0,7,17,partition_coefficients_uniform_k8.csv
+uniform_k9,uniform,9.0,7,17,partition_coefficients_uniform_k9.csv
+affected_variables_excluded,Not applicable,,7,13,partition_coefficients_affected_variables_excluded.csv

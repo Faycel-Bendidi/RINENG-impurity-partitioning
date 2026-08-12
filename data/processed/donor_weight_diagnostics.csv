@@ -1,0 +1,7 @@
+Target_variable,Time_h,Weight_sum,Maximum_weight,Minimum_weight,Number_of_selected_donors,Effective_number_of_donors,Valid_weight_sum,High_weight_concentration
+DCu,12,1.0,0.125,0.125,8,8.0,True,False
+DCu,24,1.0,0.125,0.125,8,8.0,True,False
+DK2O,0,1.0,0.125,0.125,8,8.0,True,False
+DMo,0,1.0,0.125,0.125,8,8.0,True,False
+DMo,24,1.0,0.125,0.125,8,8.0,True,False
+DNi,0,1.0,0.125,0.125,8,8.0,True,False
